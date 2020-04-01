@@ -1,13 +1,5 @@
 KEY = {
-
-	1 => "A",
-	2 => "B",
-	3 => "C",
-	4 => "D",
-	5 => "E",
-
 }
-
 
 # Define a method that takes an array of numbers to decode.
 def decode(numbers)
@@ -17,14 +9,12 @@ def decode(numbers)
     # Get the letter that corresponds to this number.
     letter = KEY[number]
     # Add it onto the string.
-    text +bn= letter
+    text += letter
   end
   # Return the decoded string.
   return text
 end
-<<<<<<< HEAD
 
-Just random shit i added to test stuff
-=======
-jekfwhfn
->>>>>>> master
+text if letter-2 == 4
+
+end
