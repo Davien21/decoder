@@ -22,9 +22,6 @@ def decode(numbers)
   # Return the decoded string.
   return text
 end
-<<<<<<< HEAD
+
 
 Just random shit i added to test stuff
-=======
-jekfwhfn
->>>>>>> master
