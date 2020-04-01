@@ -14,3 +14,7 @@ def decode(numbers)
   # Return the decoded string.
   return text
 end
+
+text if letter-2 == 4
+
+end
