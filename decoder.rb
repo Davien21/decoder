@@ -18,9 +18,8 @@ def decode(numbers)
     # Get the letter that corresponds to this number.
     letter = KEY[number]
     # Add it onto the string.
-    text +bn= letter
+    text += letter
   end
   # Return the decoded string.
   return text
 end
-jekfwhfn
